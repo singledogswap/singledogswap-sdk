@@ -1291,10 +1291,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
   integrity sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ==
 
-"@singledogswap-libs/singledog-swap-core@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.npmjs.org/@singledogswap-libs/singledog-swap-core/-/singledog-swap-core-0.1.0.tgz#26db15b59cfadce0a92b6a10b1db4f33574e5a0a"
-  integrity sha512-Qq0OlDLUwNBxypqAIsbIB2xDKpx1J7kND1Bigbeuoux2gX1ZggSjBTsZxuoA6loTNwok/zbVgoOVDx6umyOlYA==
+"@singledogswap-libs/singledog-swap-core@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.npmjs.org/@singledogswap-libs/singledog-swap-core/-/singledog-swap-core-0.1.1.tgz#7b2b88f7e058f221ce603a71a38073ef72102f72"
+  integrity sha512-NC/swVwoTDSseA71LJDSAvUfNtS8b7HoTNdpi72lvl0KFCAPMg0ZXVI3AcbjTe0TIcUoSQma7Mx45B3QJ9lqnQ==
   dependencies:
     truffle "^5.1.41"
     truffle-flattener "^1.4.4"
