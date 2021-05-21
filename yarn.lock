@@ -1293,8 +1293,8 @@
 
 "@singledogswap-libs/singledog-swap-core@^0.1.1":
   version "0.1.1"
-  resolved "https://registry.npmjs.org/@singledogswap-libs/singledog-swap-core/-/singledog-swap-core-0.1.1.tgz#7b2b88f7e058f221ce603a71a38073ef72102f72"
-  integrity sha512-NC/swVwoTDSseA71LJDSAvUfNtS8b7HoTNdpi72lvl0KFCAPMg0ZXVI3AcbjTe0TIcUoSQma7Mx45B3QJ9lqnQ==
+  resolved "https://registry.nlark.com/@singledogswap-libs/singledog-swap-core/download/@singledogswap-libs/singledog-swap-core-0.1.1.tgz#7b2b88f7e058f221ce603a71a38073ef72102f72"
+  integrity sha1-eyuI9+BY8iHOYDpxo4Bz73IQL3I=
   dependencies:
     truffle "^5.1.41"
     truffle-flattener "^1.4.4"
