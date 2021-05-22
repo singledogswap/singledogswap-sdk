@@ -14,7 +14,7 @@ describe('constants', () => {
     // })
     //TODO: Replace with real SingledogPair.json
     it('matches computed bytecode hash', () => {
-      expect(INIT_CODE_HASH).toEqual('0xd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66')
+      expect(INIT_CODE_HASH).toEqual('0x2dcd7e481f439017f3f8ce3d64110cae40afa817e8dbfb655d47eadcd07a3997')
     })
   })
 })
